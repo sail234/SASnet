@@ -1,6 +1,6 @@
 # SASnet
 ## Code
-Code is put in zip file.
+The code is uploaded as a compressed file (zip).
 ## Dataset
 ### UserBehaviorDataset
 #### 1.Introduction
